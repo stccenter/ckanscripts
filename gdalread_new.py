@@ -4,6 +4,8 @@
 Created on Wed Nov 22 21:44:37 2017
 1. GDAL has to be installed through "brew install gdal"
 2. remember to change the orgnization name and auth key
+Reference: http://blog.csdn.net/theonegis/article/details/54427906
+https://gis.stackexchange.com/questions/201061/python-gdal-api-transformosr-coordinatetransformation
 @author: yjiang
 """
 import json
